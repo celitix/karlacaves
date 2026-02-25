@@ -16,7 +16,10 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Karla Caves | Lonavala Places To Visit | Lonavala Maharashtra India",
   description: "The Karla caves are ancient Buddhist rock cut cave shrines and top the list of lonavala places to visit. They were once the worship place of the Buddhists.",
-    icons: {
+  alternates: {
+    canonical: "https://www.karlacaves.com",
+  },
+  icons: {
     icon: [
       { url: '/karla-32x32.png', sizes: '16x16', type: 'image/png' },
       { url: '/karla-192x192.png', sizes: '192x192', type: 'image/png' },

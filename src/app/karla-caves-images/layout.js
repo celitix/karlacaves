@@ -1,6 +1,9 @@
 export const metadata = {
   title: "Karla Caves Images | Lonavala Trip | Lonavala Spots | Places In Lonavala",
   description: "Karla cave are one amongst the many places to visit in Lonavala and one can say a mini lonavala hill station. Know about karla caves history..",
+  alternates: {
+    canonical: "https://www.karlacaves.com/karla-caves-images",
+  },
 };
 
 export default function Layout({ children }) {
